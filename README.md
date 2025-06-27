@@ -10,14 +10,6 @@
   <b>Experience metaverse vibes with smooth transitions and dynamic video content.</b>
 </p>
 
----
-
-<p align="center">
-  <a href="https://github.com/ShatyamYograj"><img src="https://img.shields.io/badge/Author-ShatyamYograj-blue?style=flat-square&logo=github"></a>
-  <a href="https://github.com/ShatyamYograj/gaming-website/stargazers"><img src="https://img.shields.io/github/stars/ShatyamYograj/gaming-website?style=flat-square"></a>
-  <a href="https://github.com/ShatyamYograj/gaming-website/issues"><img src="https://img.shields.io/github/issues/ShatyamYograj/gaming-website?style=flat-square"></a>
-  <a href="https://github.com/ShatyamYograj/gaming-website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ShatyamYograj/gaming-website?style=flat-square"></a>
-</p>
 
 ---
 
